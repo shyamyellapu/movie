@@ -102,7 +102,7 @@ python-dateutil==2.9.0.post0
 python-docx==1.1.2
 python-dotenv==1.0.1
 python-multipart==0.0.9
-pytz==2024.1
+pytz
 pywin32
 PyYAML==6.0.2
 pyzmq==26.2.0

@@ -1,5 +1,5 @@
 
-pywin32
+pywin32==306
 aiofiles==24.1.0
 aiohappyeyeballs==2.3.5
 aiohttp==3.10.3
